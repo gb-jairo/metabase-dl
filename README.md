@@ -1,4 +1,4 @@
-# metabase-phoenix
+# metabase-dl
 
 Script python para baixar CSV do Metabase. Usar com moderação.
 
